@@ -8,7 +8,7 @@ encoding = "utf-8"
 
 def get_message(client_socket):
     while True:
-        msg = str(input(">"))
+        msg = str(input(""))
         if msg == "quit":
             client_socket.close()
         else:

@@ -1,2 +1,2 @@
 # Py-chat
-SImple python socket caht :)
+Simple python socket caht :)
